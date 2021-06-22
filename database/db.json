@@ -1,0 +1,73 @@
+{
+	"lists": [
+		{
+			"id": 1,
+			"titile": "Личное",
+			"colorId": 1
+		},
+		{
+			"id": 2,
+			"titile": "СС",
+			"colorId": 3
+		},
+		{
+			"id": 3,
+			"titile": "РР",
+			"colorId": 2
+		},
+		{
+			"id": 4,
+			"titile": "ПП",
+			"colorId": 3
+		}
+	],
+	"tasks": [
+		{
+			"id": 1,
+			"listId": 2,
+			"text": "Расписаться на стене"
+		},
+		{
+			"id": 2,
+			"listId": 2,
+			"text": "ПОКА"
+		},
+		{
+			"id": 3,
+			"listId": 2,
+			"text": "КЕК на стене"
+		},
+		{
+			"id": 4,
+			"listId": 2,
+			"text": "ЛОЛКА на стене"
+		}
+	],
+	"colors": [
+		{
+			"id": 1,
+			"hex": "#C9D1D3",
+			"name": "grey"
+		},
+		{
+			"id": 2,
+			"hex": "#42B883",
+			"name": "green"
+		},
+		{
+			"id": 3,
+			"hex": "#64C4ED",
+			"name": "blue"
+		},
+		{
+			"id": 4,
+			"hex": "#FFBBCC",
+			"name": "pink"
+		},
+		{
+			"id": 5,
+			"hex": "#B6E6BD",
+			"name": "lime"
+		}
+	]
+}
